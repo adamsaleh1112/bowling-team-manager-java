@@ -1,0 +1,134 @@
+
+---------- COMPLETE TEAM REPORT ----------
+Name: Emma Johnson
+School Year: 10
+School: Cypress Bay
+Age: 17
+Scores: [145, 132, 156]
+Average: 144.33333333333334
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Liam Brown
+School Year: 12
+School: Western
+Age: 15
+Scores: [178, 190]
+Average: 184.0
+Rating: proficient
+JV or Varsity: Varsity
+Games over 200: 0
+Games over 300: 0
+Name: Ava Martinez
+School Year: 11
+School: Douglas
+Age: 17
+Scores: [201, 194, 187, 202]
+Average: 196.0
+Rating: proficient
+JV or Varsity: Varsity
+Games over 200: 2
+Games over 300: 0
+Name: Noah Smith
+School Year: 9
+School: Cooper City
+Age: 13
+Scores: [123]
+Average: 123.0
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Olivia Williams
+School Year: 12
+School: South Broward
+Age: 15
+Scores: [150, 160, 148]
+Average: 152.66666666666666
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Mason Davis
+School Year: 11
+School: Nova
+Age: 15
+Scores: [142, 155]
+Average: 148.5
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Isabella Garcia
+School Year: 10
+School: McArthur
+Age: 16
+Scores: [165, 172, 180]
+Average: 172.33333333333334
+Rating: basic
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Elijah Rodriguez
+School Year: 9
+School: Miramar
+Age: 15
+Scores: [110, 125]
+Average: 117.5
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Sophia Lee
+School Year: 11
+School: Coral Springs
+Age: 16
+Scores: [188, 192, 199]
+Average: 193.0
+Rating: proficient
+JV or Varsity: Varsity
+Games over 200: 0
+Games over 300: 0
+Name: James Hernandez
+School Year: 10
+School: Flanagan
+Age: 13
+Scores: [130]
+Average: 130.0
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Mia Clark
+School Year: 12
+School: Blanche Ely
+Age: 16
+Scores: [145, 137, 151]
+Average: 144.33333333333334
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: Benjamin Walker
+School Year: 9
+School: Fort Lauderdale
+Age: 15
+Scores: [122, 135]
+Average: 128.5
+Rating: minimal
+JV or Varsity: JV
+Games over 200: 0
+Games over 300: 0
+Name: adam
+School Year: 11
+School: ahs
+Age: 17
+Scores: [100, 300]
+Average: 200.0
+Rating: proficient
+JV or Varsity: Varsity
+Games over 200: 1
+Games over 300: 1
+
+---------- END OF TEAM REPORT ----------

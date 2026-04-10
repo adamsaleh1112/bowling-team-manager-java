@@ -1,0 +1,12 @@
+Emma Johnson 10 Cypress_Bay 17 145 132 156
+Liam Brown 12 Western 15 178 190
+Ava Martinez 11 Douglas 17 201 194 187 202
+Noah Smith 9 Cooper_City 13 123
+Olivia Williams 12 South_Broward 15 150 160 148
+Mason Davis 11 Nova 15 142 155
+Isabella Garcia 10 McArthur 16 165 172 180
+Elijah Rodriguez 9 Miramar 15 110 125
+Sophia Lee 11 Coral_Springs 16 188 192 199
+James Hernandez 10 Flanagan 13 130
+Mia Clark 12 Blanche_Ely 16 145 137 151
+Benjamin Walker 9 Fort_Lauderdale 15 122 135
